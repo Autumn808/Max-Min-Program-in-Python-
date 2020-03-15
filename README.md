@@ -2,7 +2,7 @@
 ((SDEV 300 Lab 1)) 
 
 
-This is a python program that finds the Min and Max of 5 integers only use the functionality and Python concepts covered so far in the readings and examples. For example, we have not covered loops, arrays or else if statement. We are limited to simple if statements, print, input, mathematical operators, comparison operators and a few other introductory concepts.
+This is a python program that finds the Min and Max of 5 integers.The Lab for this week demonstrates your first use of the AWS Cloud9 IDE with a fairly simple Python application. Only use the functionality and Python concepts covered so far in the readings and examples. For example, we have not covered loops, arrays or else if statement. We are limited to simple if statements, print, input, mathematical operators, comparison operators and a few other introductory concepts.
 
 We build these other concepts very quickly over the next couple of weeks.
 
